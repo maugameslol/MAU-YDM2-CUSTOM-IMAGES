@@ -5,3 +5,5 @@ This Repository contains card graphics for my personal YDM Minecraft server, and
 [YGOPRODECK](https://ygoprodeck.com/)
 
 [Yugipedia](https://yugipedia.com/wiki/Yugipedia)
+
+[TCGPlayer](https://www.tcgplayer.com/)
